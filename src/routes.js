@@ -8,27 +8,27 @@ import DataVideo from './pages/DataVideo';
 
 const routes = [
   {
-    path:'/',
+    path:'/Cracker-Web/',
     component: Home,
   },
   {
-    path:'/intro',
+    path:'/Cracker-Web/intro',
     component: Intro,
   },
   {
-    path:'/graph-dotmap',
+    path:'/Cracker-Web/graph-dotmap',
     component: GraphDotmap,
   },
   {
-    path:'/graph-barchart',
+    path:'/Cracker-Web/graph-barchart',
     component: GraphBarchart,
   },
   {
-    path:'/data-image',
+    path:'/Cracker-Web/data-image',
     component: DataImage,
   },
   {
-    path:'/data-video',
+    path:'/Cracker-Web/data-video',
     component: DataVideo,
   },
   
