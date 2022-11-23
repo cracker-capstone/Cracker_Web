@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.css'
-import './App.css'
+import '../src/App.css'
 import {Card, Col, Container, Nav, Navbar, Row} from 'react-bootstrap';
 import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom';
 

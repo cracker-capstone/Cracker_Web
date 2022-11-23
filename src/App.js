@@ -6,9 +6,10 @@ import {BrowserRouter as Router,
 import routes from './routes';
 import Navigation from './Navbar';
 import React, {Component} from 'react';
-import Graph_Dotmap from './Graph_Dotmap';
-import Home from './Home';
-import Intro from './Intro';
+import GraphDotmap from './pages/GraphDotmap';
+import Home from './pages/Home';
+import Intro from './pages/Intro';
+//라우터, 네비게이션 이용해 페이지 연결하는 파일
 function App(){
   return(
     <Router>

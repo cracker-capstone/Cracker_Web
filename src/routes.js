@@ -1,9 +1,11 @@
-import Home from './Home';
-import Intro from './Intro';
-import Graph_Dotmap from './Graph_Dotmap'
-import Graph_Barchart from './Graph_BarChart';
-import Data_Image from './Data_Image';
-import Data_Video from './Data_Video';
+import Home from './pages/Home';
+import Intro from './pages/Intro';
+import GraphDotmap from './pages/GraphDotmap'
+import GraphBarchart from './pages/GraphBarchart';
+import DataImage from './pages/DataImage';
+import DataVideo from './pages/DataVideo';
+//라우터 경로 모아둔 파일
+
 const routes = [
   {
     path:'/',
@@ -15,19 +17,19 @@ const routes = [
   },
   {
     path:'/graph-dotmap',
-    component: Graph_Dotmap,
+    component: GraphDotmap,
   },
   {
     path:'/graph-barchart',
-    component: Graph_Barchart,
+    component: GraphBarchart,
   },
   {
     path:'/data-image',
-    component: Data_Image,
+    component: DataImage,
   },
   {
     path:'/data-video',
-    component: Data_Video,
+    component: DataVideo,
   },
   
 ]
