@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Crakcer_Web/static/css/main.4f05bde8.css",
-    "main.js": "/Crakcer_Web/static/js/main.948f5c70.js",
-    "static/js/787.2486ad57.chunk.js": "/Crakcer_Web/static/js/787.2486ad57.chunk.js",
-    "static/media/bg.jpg": "/Crakcer_Web/static/media/bg.c854554acaa9bc3993bc.jpg",
-    "index.html": "/Crakcer_Web/index.html",
-    "main.4f05bde8.css.map": "/Crakcer_Web/static/css/main.4f05bde8.css.map",
-    "main.948f5c70.js.map": "/Crakcer_Web/static/js/main.948f5c70.js.map",
-    "787.2486ad57.chunk.js.map": "/Crakcer_Web/static/js/787.2486ad57.chunk.js.map"
+    "main.css": "/Cracker_Web/static/css/main.e4348a2c.css",
+    "main.js": "/Cracker_Web/static/js/main.7e1240e8.js",
+    "static/js/787.2486ad57.chunk.js": "/Cracker_Web/static/js/787.2486ad57.chunk.js",
+    "static/media/bg.jpg": "/Cracker_Web/static/media/bg.c854554acaa9bc3993bc.jpg",
+    "index.html": "/Cracker_Web/index.html",
+    "main.e4348a2c.css.map": "/Cracker_Web/static/css/main.e4348a2c.css.map",
+    "main.7e1240e8.js.map": "/Cracker_Web/static/js/main.7e1240e8.js.map",
+    "787.2486ad57.chunk.js.map": "/Cracker_Web/static/js/787.2486ad57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f05bde8.css",
-    "static/js/main.948f5c70.js"
+    "static/css/main.e4348a2c.css",
+    "static/js/main.7e1240e8.js"
   ]
 }
