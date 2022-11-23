@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Crakcer_Web/static/css/main.4f05bde8.css",
-    "main.js": "/Crakcer_Web/static/js/main.9d534b0f.js",
+    "main.js": "/Crakcer_Web/static/js/main.948f5c70.js",
     "static/js/787.2486ad57.chunk.js": "/Crakcer_Web/static/js/787.2486ad57.chunk.js",
     "static/media/bg.jpg": "/Crakcer_Web/static/media/bg.c854554acaa9bc3993bc.jpg",
     "index.html": "/Crakcer_Web/index.html",
     "main.4f05bde8.css.map": "/Crakcer_Web/static/css/main.4f05bde8.css.map",
-    "main.9d534b0f.js.map": "/Crakcer_Web/static/js/main.9d534b0f.js.map",
+    "main.948f5c70.js.map": "/Crakcer_Web/static/js/main.948f5c70.js.map",
     "787.2486ad57.chunk.js.map": "/Crakcer_Web/static/js/787.2486ad57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f05bde8.css",
-    "static/js/main.9d534b0f.js"
+    "static/js/main.948f5c70.js"
   ]
 }
