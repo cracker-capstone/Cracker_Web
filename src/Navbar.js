@@ -9,11 +9,11 @@ function Navigation() {
     <link rel='stylesheet' href='./App.css'></link>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand as={Link} to={"/Cracker-Web/"}>CRACKER</Navbar.Brand>
+          <Navbar.Brand as={Link} to={"/"}>CRACKER</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link as={Link} to={"/Cracker-Web/intro"}>소개</Nav.Link>
-            <Nav.Link as={Link} to={"/Cracker-Web/graph-dotmap"}>그래프</Nav.Link>
-            <Nav.Link as={Link} to={"/Cracker-Web/data-image"}>데이터</Nav.Link>
+            <Nav.Link as={Link} to={"/intro"}>소개</Nav.Link>
+            <Nav.Link as={Link} to={"/graph-dotmap"}>그래프</Nav.Link>
+            <Nav.Link as={Link} to={"/data-image"}>데이터</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

@@ -4,31 +4,30 @@ import GraphDotmap from './pages/GraphDotmap'
 import GraphBarchart from './pages/GraphBarchart';
 import DataImage from './pages/DataImage';
 import DataVideo from './pages/DataVideo';
-//라우터 경로 모아둔 파일
 
 const routes = [
   {
-    path:'/Cracker-Web/',
+    path:'/',
     component: Home,
   },
   {
-    path:'/Cracker-Web/intro',
+    path:'/intro',
     component: Intro,
   },
   {
-    path:'/Cracker-Web/graph-dotmap',
+    path:'/graph-dotmap',
     component: GraphDotmap,
   },
   {
-    path:'/Cracker-Web/graph-barchart',
+    path:'/graph-barchart',
     component: GraphBarchart,
   },
   {
-    path:'/Cracker-Web/data-image',
+    path:'/data-image',
     component: DataImage,
   },
   {
-    path:'/Cracker-Web/data-video',
+    path:'/data-video',
     component: DataVideo,
   },
   

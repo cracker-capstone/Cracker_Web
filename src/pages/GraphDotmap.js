@@ -1,6 +1,6 @@
 import React,{ Component } from "react";
 import { Grid, Box } from "@mui/material";
-
+import Map from "../components/map";
 
 export default class GraphDotmap extends Component {
     render(){
@@ -15,6 +15,7 @@ export default class GraphDotmap extends Component {
                     Dot Map
                 </div>
             </Box>
+            <Map/>
         </div>
         )
     }
