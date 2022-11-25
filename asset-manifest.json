@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Cracker_Web/static/css/main.e4348a2c.css",
-    "main.js": "/Cracker_Web/static/js/main.3cc7c25e.js",
+    "main.js": "/Cracker_Web/static/js/main.1e6ca424.js",
     "static/js/787.2486ad57.chunk.js": "/Cracker_Web/static/js/787.2486ad57.chunk.js",
     "static/media/bg.jpg": "/Cracker_Web/static/media/bg.c854554acaa9bc3993bc.jpg",
     "index.html": "/Cracker_Web/index.html",
     "main.e4348a2c.css.map": "/Cracker_Web/static/css/main.e4348a2c.css.map",
-    "main.3cc7c25e.js.map": "/Cracker_Web/static/js/main.3cc7c25e.js.map",
+    "main.1e6ca424.js.map": "/Cracker_Web/static/js/main.1e6ca424.js.map",
     "787.2486ad57.chunk.js.map": "/Cracker_Web/static/js/787.2486ad57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4348a2c.css",
-    "static/js/main.3cc7c25e.js"
+    "static/js/main.1e6ca424.js"
   ]
 }
