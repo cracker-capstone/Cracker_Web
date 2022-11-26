@@ -2,8 +2,7 @@ import React,{ Component } from "react";
 import { Grid, Box } from "@mui/material";
 import Map from "../components/map";
 
-export default class GraphDotmap extends Component {
-    render(){
+function GraphDotmap(){
         return(
         <div className="whiteBox">
             <Box 
@@ -19,4 +18,5 @@ export default class GraphDotmap extends Component {
         </div>
         )
     }
-}
+
+export default GraphDotmap;

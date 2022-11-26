@@ -2,7 +2,6 @@ import React from "react";
 import GoogleMapReact from "google-map-react";
 import useMediaQuery from '@mui/material/useMediaQuery';
 import useStyles from './map_style';
-import {dot} from './imgs/dot_5px.png';
 
 const Map = () => {
     const classes = useStyles();

@@ -6,10 +6,9 @@ import {BrowserRouter as Router,
   Switch, Route, Link} from 'react-router-dom';
 
 
-export default class Home extends Component {
-  render(){
+function Home(){
     return (
-
+      <div className="home_page">
       <Grid container spacing={3}>
         <Grid item xs={2} sm={0} p={2}></Grid>
           <Grid as={Link} to={'/graph-dotmap'}
@@ -57,6 +56,8 @@ export default class Home extends Component {
             </Box>
           </Grid>
         </Grid>
+        </div>
     );
   }
-}
+
+  export default Home;

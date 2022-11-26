@@ -28,17 +28,21 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.intro_page{ animation: 0.7s ease-in-out loadEffect1; }
+
+@keyframes loadEffect1 {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }
 
+.home_page{ animation: 1s ease-in-out loadEffect1; }
+
 body{
-  background-image: url(./components/bg.jpg);
+  background-image: url(./imgs/bg.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -54,7 +58,7 @@ body{
   left: 60%;
   top: 250px;
 } 
-.intro_page button{
+.intro_button button{
   font-size: 11pt;
   margin-top: 35px;
   border: none;

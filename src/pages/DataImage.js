@@ -1,7 +1,7 @@
 import React,{ Component } from "react";
 import { Box } from "@mui/material";
-export default class DataImage extends Component {
-    render(){
+
+function DataImage(){
         return(
         <div className="whiteBox">
             <Box 
@@ -16,8 +16,5 @@ export default class DataImage extends Component {
         </div>
         )
     }
-}
 
-function ShowImage() {
-
-}
+export default DataImage;
